@@ -1,4 +1,3 @@
-# Sales-Data-Analytics-using-SQL
 # 📊 SQL Sales Data Analysis
 
 ## 📖 Overview
